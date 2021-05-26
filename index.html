@@ -70,7 +70,7 @@
     
 		<figure class="front">
 <br>
-			WORK-AND-HOME LIFE<br>BLENDING
+			WORK-HOME LIFE<br>BLENDING
 </figure>
 
 		<figure class="back2">
