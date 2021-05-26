@@ -83,27 +83,6 @@
 
 </section>
 
-	<br><br>
-	
-<section class="container" style="z-index: 8; margin-left: 27%;">
-
-	<div id="card" class="card back">
-    
-		<figure class="front">
-<br>
-			BOX 4 SAMPLE
-</figure>
-
-		<figure class="back2">
-			<div class="logo-dribbble1">
-	</div><br>
-
-
-</figure>
-  
-	</div>
-
-</section>
 
  
 
