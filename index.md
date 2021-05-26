@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 
 
+
 <html>
 
 <head>
@@ -48,7 +49,7 @@
     		
 		<figure class="front">
       <br>
-			NEW ENVIRONMENT</figure>
+			"NEW ENVIRONMENT"</figure>
 
 		<figure class="back1">
 
@@ -69,7 +70,7 @@
     
 		<figure class="front">
 <br>
-			WORK AND LIFE<br>INTERFERENCE
+			WORK-AND-HOME LIFE<br>BLENDING
 </figure>
 
 		<figure class="back2">
@@ -81,14 +82,18 @@
   
 	</div>
 
+	
+	
 </section>
 
 
- 
+
 
 
 
 <script src="./jquery.min.js.download"></script>
+
+    
 <script src="./index.js.download"></script>
 
 
