@@ -85,7 +85,7 @@
 
 	<br><br>
 	
-<section class="container" style="z-index: 8; margin-left: 25%;">
+<section class="container" style="z-index: 8; margin-left: 27%;">
 
 	<div id="card" class="card back">
     
