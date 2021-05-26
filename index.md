@@ -83,7 +83,7 @@
 
 </section>
 
-	<br><br><div style="margin-left: 19%;">
+	<br><br><div style="margin-left: 18%;">
 	
 <section class="container" style="z-index: 8;">
 
