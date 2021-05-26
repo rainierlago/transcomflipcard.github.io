@@ -61,7 +61,7 @@
 </section>
 
 
-<br><br>
+
 
 <section class="container" style="z-index: 7;">
 
@@ -83,6 +83,8 @@
 
 </section>
 
+	<br><br>
+	
 <section class="container" style="z-index: 8;">
 
 	<div id="card" class="card back">
