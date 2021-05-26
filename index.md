@@ -83,9 +83,9 @@
 
 </section>
 
-	<br><br><div style="margin-left: 17%;">
+	<br><br>
 	
-<section class="container" style="z-index: 8;">
+<section class="container" style="z-index: 8; margin-left: 25%;">
 
 	<div id="card" class="card back">
     
@@ -105,7 +105,7 @@
 
 </section>
 
- </div>
+ 
 
 
 
